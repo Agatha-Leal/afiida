@@ -1,0 +1,7 @@
+{
+  "name": "afiida",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
